@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Linkedin
+Linkedin/n
+
 Git
 Inta
 Intereses
