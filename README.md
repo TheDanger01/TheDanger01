@@ -9,7 +9,6 @@
 - 🌱 I like learning new things and continuing to learn.
 - 📫 How to reach me: wilsonmorenob.2015@gmail.com
 - ⚡ I like sports, especially soccer.
--->
 
 # 🛠 My Skills
 
@@ -43,51 +42,58 @@
 </table>
 
 ## 💻 Programming Languages<br> 🗄 Databases & ⚒ Dev Tools
-
 <table>
   <tr>
-    <th>Programming Languages</th>
-  </tr>
-  <tr>
     <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white" />
-    </td>
-  </tr>
-</table>
+      <table>
+        <tr>
+          <th>Programming Languages</th>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+            <br>
+            <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+            <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+            <br>
+            <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+            <br>
+            <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" /> &nbsp;&nbsp;&nbsp;
+            <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white" />
+          </td>
+        </tr>
+      </table>
 
-<table>
-  <tr>
-    <th>Data Bases</th>
-    <th>Dev Tools</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/Thunder_Client-000000?style=flat&logo=visualstudiocode&logoColor=blue" />
+  </td>
+  <td style="padding-left: 30px;">
+      <table>
+        <tr>
+          <th>Data Bases</th>
+          <th>Dev Tools</th>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+            <br>
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+            <br>
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+          </td>
+          <td>
+            <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+            <br>
+            <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+            <br>
+            <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+            <br>
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+            <br>
+            <img src="https://img.shields.io/badge/Thunder_Client-000000?style=flat&logo=visualstudiocode&logoColor=blue" />
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
