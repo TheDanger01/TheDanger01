@@ -5,8 +5,9 @@
 **TheDanger01/TheDanger01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🧠 I am a Civil Engineer in Computer Science.
-- 🌱 I like learning new things and continuing to learn.
-- 💻 I like development, whether it's web, mobile, or desktop, but I'm also interested in networks and telecommunications.
+- 🌱 I like learning new things and continuing to grow professionally.
+- 💻 I enjoy software development: Web, Desktop, and Mobile applications, working as a Full-Stack Developer (Front-End & Back-End).
+- 🔐 I am also interested in Cybersecurity, Networking, and Telecommunications.
 - 📫 How to reach me: wilsonmorenob.2015@gmail.com
 - ⚡ I like sports, especially soccer.
 
