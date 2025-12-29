@@ -7,7 +7,7 @@
 - 🧠 I am a Civil Engineer in Computer Science.
 - 🌱 I like learning new things and continuing to grow professionally.
 - 💻 I enjoy software development: Web, Desktop, and Mobile applications, working as a Full-Stack Developer (Front-End & Back-End).
-- 🔐 I am also interested in Cybersecurity, Networking, and Telecommunications.
+- 🔐 I am also interested in Cybersecurity and Networking.
 - 📫 How to reach me: wilsonmorenob.2015@gmail.com
 - ⚡ I like sports, especially soccer.
 
